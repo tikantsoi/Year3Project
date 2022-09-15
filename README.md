@@ -1,1 +1,5 @@
 # BSc Project: Accelerating Laser-driven Ion Source Instrumentation using Machine Learning  
+
+This is my final year project completed in conjunction with Angus Choy under Imperial Plasma Group. Experimental images affiliated with high-energy plasma accelerator are often obscured by different types of noise due to the nature of the associated imaging equipment. Traditionally, to recover important spectral parameters from the experiment, experimentalists must first apply a series of slow and inefficient noise reduction techniques such as median filtering. As an enhancement, we proposed using a convolutional neural network (CNN) to directly obtain this information - this method required us to first generate synthetic data using Monte Carlo simulations based on the experimental setup and later used them in the model training and validation. I'm happy to read from the report feedback that our model will soon be used and put to the test in actual experiments. To learn more, check out the project report (see pdf).
+
+
