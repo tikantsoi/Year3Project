@@ -347,11 +347,3 @@ axs[0].set_ylabel(r'Position $y$ (pixel)')
 axs[1].set_title('Clean proton track')
 fig.colorbar(img2, ax=axs[1])
 #fig.colorbar(img2)
-
-#%%
-
-a = np.array([14.315392,14.287662,13.876450,14.382810,13.529870])
-
-b = np.array([18.187136,17.976140,20.253621,18.921891,18.626251])
-
-c = a+b
