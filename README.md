@@ -5,6 +5,6 @@ This is my final year project completed in conjunction with Angus Choy under Imp
 <img src="https://user-images.githubusercontent.com/97603154/190479088-a5906c20-d77a-4a6b-bf85-57a02255a6ee.png" width="60%" height="60%">
 <figcaption>Physics behind plasma acceleration (source: Influencing laser-accelerated ions by femtosecond-laser desorption)</figcaption>
 
-<img src="https://user-images.githubusercontent.com/97603154/190479397-04ba61ec-af86-4b2a-8ff1-37b5a9b46bdc.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/97603154/190479397-04ba61ec-af86-4b2a-8ff1-37b5a9b46bdc.png" width="80%" height="80%">
 <figcaption>Schematic of the experimental setup under investigation</figcaption>
 
